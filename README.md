@@ -1,2 +1,2 @@
 # Poker
-Tiny Poker game with charactors
+Tiny Poker game with characters
